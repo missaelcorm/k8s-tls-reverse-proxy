@@ -193,3 +193,4 @@ This is our WebApp running on Kubernetes using an Ingress Controller with our Ce
 - https://cert-manager.io/docs/configuration/ca/
 - https://www.youtube.com/watch?v=hoLUigg4V18
 - https://www.youtube.com/watch?v=72zYxSxifpM
+- https://kubernetes.github.io/ingress-nginx/user-guide/tls/
