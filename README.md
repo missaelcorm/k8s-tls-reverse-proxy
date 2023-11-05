@@ -183,3 +183,13 @@ This is our WebApp running on Kubernetes using an Ingress Controller with our Ce
 
 ![Alt text](attachments/result_web.png)
 
+## Resources
+- https://github.com/marcel-dempers/docker-development-youtube-series/tree/master/kubernetes/ingress/controller/nginx
+- https://www.nginx.com/blog/automating-certificate-management-in-a-kubernetes-environment/
+- https://medium.com/avmconsulting-blog/how-to-secure-applications-on-kubernetes-ssl-tls-certificates-8f7f5751d788
+- https://learnk8s.io/deploying-nodejs-kubernetes
+- https://kind.sigs.k8s.io/docs/user/quick-start/
+- https://github.com/missaelcorm/private-ca
+- https://cert-manager.io/docs/configuration/ca/
+- https://www.youtube.com/watch?v=hoLUigg4V18
+- https://www.youtube.com/watch?v=72zYxSxifpM
