@@ -84,6 +84,11 @@ For testing purposes, we will use `port-forwarding`.
 kubectl -n ingress-nginx port-forward svc/ingress-nginx-controller 443
 ```
 
+Or if you want to listen at any interface:
+```shell
+kubectl -n ingress-nginx port-forward svc/ingress-nginx-controller 443 --address='0.0.0.0'
+```
+
 Now we can reach our controller on [https://localhost/](https://localhost/).
 
 > Note: This needs to be ran outside the Docker Container
